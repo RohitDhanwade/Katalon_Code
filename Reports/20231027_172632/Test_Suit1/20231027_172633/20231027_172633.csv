@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suit1,,,,2023-10-27 17:26:36,2023-10-27 17:26:36,0.385s,PASSED
+,,,,,,,
+Test Cases/login,,,,2023-10-27 17:26:36,2023-10-27 17:26:36,0.225s,PASSED
+"println(""Hello"")",,,,2023-10-27 17:26:36,2023-10-27 17:26:36,0.006s,PASSED
+"println(""Hii"")",,,,2023-10-27 17:26:36,2023-10-27 17:26:36,0.002s,PASSED
+"println(""Hii"")",,,,2023-10-27 17:26:36,2023-10-27 17:26:36,0.001s,PASSED
