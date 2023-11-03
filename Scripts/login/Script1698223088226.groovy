@@ -17,17 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-println('Hello')
+WebUI.openBrowser('https://www.facebook.com')
 
-println('Hii')
+WebUI.setText(findTestObject('Page_Facebook  log in or sign up/Username'), 'Rohit')
 
-println('Hii')
+WebUI.takeScreenshot()
 
-println('Hii')
+WebUI.click(findTestObject('Password'))
 
-println('Hii')
+WebUI.setText(findTestObject('Password'), Password)
 
-println('Hii')
-
-println('Hii')
+WebUI.takeScreenshot()
 

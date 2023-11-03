@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>2c1d62ee-229d-4fc2-a165-06bf11b3660d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e09ceaf6-34a1-4258-b379-90975ba40222</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Password'</defaultValue>
+      <description></description>
+      <id>e09ceaf6-34a1-4258-b379-90975ba40222</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
 </TestCaseEntity>
