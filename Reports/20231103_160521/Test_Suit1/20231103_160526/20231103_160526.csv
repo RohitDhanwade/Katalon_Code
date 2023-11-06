@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Suit1,Chrome 119.0.0.0,,,2023-11-03 16:05:29,2023-11-03 16:05:34,5.094s,PASSED
+,,,,,,,
+Test Cases/login,Chrome 119.0.0.0,,,2023-11-03 16:05:29,2023-11-03 16:05:34,4.982s,PASSED
+"openBrowser(""https://www.facebook.com"")",Chrome 119.0.0.0,,,2023-11-03 16:05:29,2023-11-03 16:05:31,2.558s,PASSED
+"setText(findTestObject(""Page_Facebook  log in or sign up/Username""), ""Rohit"")",Chrome 119.0.0.0,,,2023-11-03 16:05:31,2023-11-03 16:05:32,0.612s,PASSED
+takeScreenshot(),Chrome 119.0.0.0,,,2023-11-03 16:05:32,2023-11-03 16:05:32,0.334s,PASSED
+"click(findTestObject(""Password""))",Chrome 119.0.0.0,,,2023-11-03 16:05:32,2023-11-03 16:05:33,0.440s,PASSED
+"setText(findTestObject(""Password""), Password)",Chrome 119.0.0.0,,,2023-11-03 16:05:33,2023-11-03 16:05:33,0.555s,PASSED
+takeScreenshot(),Chrome 119.0.0.0,,,2023-11-03 16:05:33,2023-11-03 16:05:34,0.297s,PASSED
